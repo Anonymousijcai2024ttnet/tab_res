@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the results of Table XXX and the decision rules that are given in Figure XXX.
+This repository contains the results of Table 2 and the decision rules that are given in Figure 2.
 
 ## Results
 
