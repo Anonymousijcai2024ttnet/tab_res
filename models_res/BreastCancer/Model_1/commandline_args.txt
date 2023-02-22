@@ -1,0 +1,61 @@
+{
+  "dataset": "breast_cancer",
+  "checkpoint": 1,
+  "seed": 0,
+  "device": "cuda",
+  "device_ids": [
+    0
+  ],
+  "models_path": "BreastCancer/",
+  "DATA_DIR": "dataset/breast_cancer/",
+  "num_workers": 2,
+  "sensitive_fairness": [],
+  "kfold": 0,
+  "quant_step": 0.1,
+  "famille": "TTnet",
+  "cbd": "",
+  "type_blocks": [
+    "TTblock"
+  ],
+  "last_layer": "binpos",
+  "Blocks_filters_output": [
+    5
+  ],
+  "Blocks_amplifications": [
+    5
+  ],
+  "Blocks_strides": [
+    2
+  ],
+  "type_first_layer_block": "float",
+  "kernel_size_per_block": [
+    3
+  ],
+  "groups_per_block": [
+    1
+  ],
+  "padding_per_block": [
+    0
+  ],
+  "thr_bin_act": [
+    0.0,
+    0.0
+  ],
+  "random_permut": false,
+  "load_permut": "dataset/breast_cancer/breast_cancer_original_mapping.json",
+  "repeat_permut": 1,
+  "thr_bin_act_test": [
+    0.0,
+    0.0
+  ],
+  "adv_epsilon": "min(epoch/45, 1)*0.0",
+  "adv_step": "min(epoch/22,0.9)*0.0+0",
+  "n_epoch": 10,
+  "lr": 0.005,
+  "data_augmentation": false,
+  "batch_size_test": 100,
+  "pruning": true,
+  "coef_mul": 100,
+  "attack_eps": 2,
+  "save_train_time": false
+}

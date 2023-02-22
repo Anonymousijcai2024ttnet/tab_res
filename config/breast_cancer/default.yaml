@@ -1,0 +1,15 @@
+general:
+  DATA_DIR: dataset/breast_cancer/
+  kfold: 0
+
+model:
+  kernel_size_per_block: [ 3 ] #
+  Blocks_filters_output: [ 5 ] # number of filters in each bloc
+  padding_per_block: [ 0 ] #
+  Blocks_strides: [ 2 ] #[2,1,1,1]  # stride in the first layer in each block
+  load_permut: dataset/breast_cancer/breast_cancer_original_mapping.json
+  repeat_permut: 10
+
+eval:
+  path_load_model: models_res/BreastCancer/Model_1
+  # models_res/Tabular/Adult/Model_1 ; ACC: 77.6%

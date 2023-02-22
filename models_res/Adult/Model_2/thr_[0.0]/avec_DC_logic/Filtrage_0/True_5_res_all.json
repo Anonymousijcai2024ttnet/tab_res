@@ -1,0 +1,32 @@
+{
+  "dc_logic": true,
+  "filtrage": 0,
+  "repeat_permut": 1,
+  "random_permut": false,
+  "load_general_exception_filters": true,
+  "accuracy": 0.8379914004914005,
+  "DP": 1.0,
+  "OP": 0.0,
+  "f1": 0.6380789022298456,
+  "precision": 0.5712530712530712,
+  "recall": 0.7226107226107226,
+  "confusion_matrix": [
+    [
+      4527,
+      698
+    ],
+    [
+      357,
+      930
+    ]
+  ],
+  "Number_rules": 10,
+  "Number_conditions": 31,
+  "Average_conditions_per_rule": 3.1,
+  "Std_conditions_per_rule": 2.3000000000000003,
+  "Number_correlation_POS": 0,
+  "Number_correlation_NEG": 1,
+  "fairnes_true": false,
+  "stat_parity": 0.8268771877419498,
+  "equal_odds": 0.18666737960380544
+}

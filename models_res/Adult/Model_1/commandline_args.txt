@@ -1,0 +1,62 @@
+{
+  "dataset": "adult",
+  "checkpoint": 1,
+  "seed": 0,
+  "device": "cuda",
+  "device_ids": [
+    0
+  ],
+  "models_path": "Adult_run/Permutation_true_10/",
+  "DATA_DIR": "dataset/adult/",
+  "num_workers": 2,
+  "sensitive_fairness": [
+    52
+  ],
+  "kfold": 3,
+  "quant_step": 0.0,
+  "famille": "TTnet",
+  "cbd": "",
+  "type_blocks": [
+    "TTblock"
+  ],
+  "last_layer": "binpos",
+  "Blocks_filters_output": [
+    10
+  ],
+  "Blocks_amplifications": [
+    10
+  ],
+  "Blocks_strides": [
+    5
+  ],
+  "type_first_layer_block": "float",
+  "kernel_size_per_block": [
+    5
+  ],
+  "groups_per_block": [
+    1
+  ],
+  "padding_per_block": [
+    0
+  ],
+  "thr_bin_act": [
+    0.0,
+    0.0
+  ],
+  "random_permut": true,
+  "load_permut": "dataset/adult/adult_original_mapping.json",
+  "repeat_permut": 10,
+  "thr_bin_act_test": [
+    0.0,
+    0.0
+  ],
+  "adv_epsilon": "min(epoch/45, 1)*0.0",
+  "adv_step": "min(epoch/22,0.9)*0.0+0",
+  "n_epoch": 10,
+  "lr": 0.005,
+  "data_augmentation": false,
+  "batch_size_test": 100,
+  "pruning": true,
+  "coef_mul": 100,
+  "attack_eps": 2
+}

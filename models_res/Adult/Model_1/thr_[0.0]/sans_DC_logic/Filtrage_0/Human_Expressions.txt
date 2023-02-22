@@ -1,0 +1,822 @@
+_7_Craft_repair | _14_Holand_Netherlands | _4_Prof_school & _14_Japan | _14_Cuba & ~_14_Japan
+[0.0, 13.0]
+
+_6_Never_married | _14_Thailand | _14_Trinadad&Tobago & _7_Sales | _14_China & ~_7_Sales
+[13.0, 0.0]
+
+_7_Protective_serv | _14_Honduras | _14_Philippines & _4_HS_grad | _14_Laos & ~_4_HS_grad
+[0.0, 13.0]
+
+_14_Greece | _8_Own_child | _4_Doctorate & _6_Separated | _14_Italy & ~_6_Separated
+[0.0, 13.0]
+
+_7_Prof_specialty | _14_Guatemala | _14_England & _9_White | _14_France & ~_9_White
+[0.0, 13.0]
+
+_4_Some_college | _14_Cambodia | _8_Not_in_family & capital_gain_ST_4685 | _4_Doctorate & ~capital_gain_ST_4685
+[0.0, 13.0]
+
+_14_Trinadad&Tobago | _14_Dominican_Republic | _14_Puerto_Rico & _7_Machine_op_inspct | _2_Never_worked & ~_7_Machine_op_inspct
+[0.0, 13.0]
+
+_7_Craft_repair | _14_Poland | _14_Haiti & _7_Armed_Forces | _14_Honduras & ~_7_Armed_Forces
+[13.0, 0.0]
+
+_4_Doctorate | _4_9th | _14_Outlying_US(Guam_USVI_etc) & _4_5th_6th | _9_Other & ~_4_5th_6th
+[13.0, 0.0]
+
+_7_Sales | _2_Without_pay | _14_Dominican_Republic & _14_Guatemala | _14_Hungary & ~_14_Guatemala
+[0.0, 13.0]
+
+_6_Married_spouse_absent | _4_Assoc_acdm | _14_Trinadad&Tobago & _14_Honduras | _14_United_States & ~_14_Honduras
+[0.0, 13.0]
+
+_2_Federal_gov | _14_Haiti | capital_gain_ST_4685 & _14_Peru | _14_Columbia & ~_14_Peru
+[0.0, 13.0]
+
+years_of_education_ST_12 | _14_Haiti | _14_El_Salvador & _14_Taiwan | _14_Guatemala & ~_14_Taiwan
+[0.0, 13.0]
+
+_14_Guatemala | _14_Thailand | _14_Hong & _9_White | _9_Asian_Pac_Islander & ~_9_White
+[0.0, 13.0]
+
+_14_Peru | _4_Prof_school | _14_Portugal & _4_Masters | _2_Local_gov & ~_4_Masters
+[0.0, 13.0]
+
+_14_Nicaragua | _14_Haiti | _14_Columbia & _14_Jamaica | age_ST_46 & ~_14_Jamaica
+[0.0, 13.0]
+
+_7_Armed_Forces | _6_Married_spouse_absent | _7_Craft_repair & _8_Other_relative | _14_Germany & ~_8_Other_relative
+[0.0, 13.0]
+
+_14_Iran | _14_Hong | _14_Honduras & _2_Local_gov | _9_Black & ~_2_Local_gov
+[0.0, 13.0]
+
+_14_India | _14_Taiwan | _14_Philippines & _4_9th | _14_Guatemala & ~_4_9th
+[13.0, 0.0]
+
+_7_Tech_support | _7_Protective_serv | _14_Japan & _14_Italy | _14_Ireland & ~_14_Italy
+[13.0, 0.0]
+
+_4_11th | _4_Prof_school | _9_Other & _8_Other_relative | _14_Canada & ~_8_Other_relative
+[0.0, 13.0]
+
+_8_Other_relative | _7_Machine_op_inspct | _6_Separated & _4_7th_8th | _9_Other & ~_4_7th_8th
+[13.0, 0.0]
+
+_7_Protective_serv | _14_Nicaragua | _14_Italy & _9_Asian_Pac_Islander | _14_Cuba & ~_9_Asian_Pac_Islander
+[0.0, 13.0]
+
+_14_Greece | capital_gain_ST_4685 | _14_Haiti & age_ST_46 | hours_per_week_ST_47 & ~age_ST_46
+[0.0, 13.0]
+
+_7_Priv_house_serv | _2_Self_emp_inc | _4_Some_college & _4_9th | _8_Own_child & ~_4_9th
+[13.0, 0.0]
+
+_2_State_gov | _14_Philippines | _9_Other & _8_Unmarried | _14_Germany & ~_8_Unmarried
+[0.0, 13.0]
+
+_14_Columbia | _2_Never_worked | _2_Local_gov & years_of_education_ST_12 | _14_United_States & ~years_of_education_ST_12
+[13.0, 0.0]
+
+capital_loss_ST_285 | _14_Puerto_Rico | _9_Black & _14_Holand_Netherlands | _14_Ecuador & ~_14_Holand_Netherlands
+[0.0, 13.0]
+
+_4_11th | _8_Wife | _14_Haiti & _8_Not_in_family | _14_Hungary & ~_8_Not_in_family
+[13.0, 0.0]
+
+_14_Trinadad&Tobago | _2_Self_emp_inc | _14_Japan & _14_Yugoslavia | _14_Vietnam & ~_14_Yugoslavia
+[13.0, 0.0]
+
+years_of_education_ST_12 | _14_El_Salvador | _4_Doctorate & _14_Scotland | _10_Male & ~_14_Scotland
+[0.0, 13.0]
+
+_14_Haiti | _2_Private | _14_Philippines & _7_Sales | _14_Outlying_US(Guam_USVI_etc) & ~_7_Sales
+[0.0, 13.0]
+
+_4_11th | _4_5th_6th | _9_Asian_Pac_Islander | _2_Without_pay & ~_6_Married_AF_spouse
+[13.0, 0.0]
+
+_7_Handlers_cleaners | _14_Taiwan | _4_Assoc_acdm | _8_Other_relative & ~_6_Widowed
+[13.0, 0.0]
+
+years_of_education_ST_12 | _2_Federal_gov | _7_Machine_op_inspct | _14_Iran & ~_8_Unmarried
+[0.0, 13.0]
+
+_14_India | _14_El_Salvador | _4_12th | _7_Transport_moving & ~_14_Jamaica
+[13.0, 0.0]
+
+_7_Prof_specialty | _9_White | _14_Guatemala | _14_France & ~_14_England
+[0.0, 13.0]
+
+_4_Some_college | capital_gain_ST_4685 | _14_Cambodia | _4_Doctorate & ~_8_Not_in_family
+[0.0, 13.0]
+
+capital_loss_ST_285 | _14_Canada | _2_Local_gov | _9_White & ~_4_Assoc_voc
+[0.0, 13.0]
+
+_7_Sales | _4_Masters | _14_Thailand | _14_Dominican_Republic & ~_2_Private
+[0.0, 13.0]
+
+_6_Married_spouse_absent | _2_State_gov | _14_Holand_Netherlands | _6_Separated & ~_7_Machine_op_inspct
+[0.0, 13.0]
+
+_7_Craft_repair | _7_Armed_Forces | _14_Poland | _14_Honduras & ~_14_Haiti
+[13.0, 0.0]
+
+_6_Married_AF_spouse | capital_loss_ST_285 | _7_Exec_managerial | _14_France & ~years_of_education_ST_12
+[0.0, 13.0]
+
+_14_Jamaica | _14_Cambodia | _9_White | hours_per_week_ST_47 & ~_4_12th
+[13.0, 0.0]
+
+capital_gain_ST_4685 | _14_Japan | _7_Machine_op_inspct | _8_Own_child & ~_7_Priv_house_serv
+[0.0, 13.0]
+
+_6_Separated | _14_Iran | _2_Federal_gov | _7_Craft_repair & ~_2_Never_worked
+[13.0, 0.0]
+
+_14_Guatemala | _9_White | _14_Thailand | _9_Asian_Pac_Islander & ~_14_Hong
+[0.0, 13.0]
+
+_14_Peru | _4_Masters | _4_Prof_school | _2_Local_gov & ~_14_Portugal
+[0.0, 13.0]
+
+_14_Nicaragua | _14_Jamaica | _14_Haiti | age_ST_46 & ~_14_Columbia
+[0.0, 13.0]
+
+_6_Married_spouse_absent | _4_12th | _14_Germany | _4_Doctorate & ~_4_Masters
+[13.0, 0.0]
+
+_2_Federal_gov | capital_gain_ST_4685 | _8_Not_in_family | _7_Handlers_cleaners & ~_6_Never_married
+[13.0, 0.0]
+
+_14_Portugal | _14_South | _14_Ecuador | _6_Widowed & ~_7_Prof_specialty
+[13.0, 0.0]
+
+_14_Canada | _4_Assoc_acdm | _6_Never_married | _4_Prof_school & ~_2_State_gov
+[0.0, 13.0]
+
+_14_Greece | age_ST_46 | capital_gain_ST_4685 | hours_per_week_ST_47 & ~_14_Haiti
+[0.0, 13.0]
+
+_4_Preschool | _9_Black | _14_Mexico | _14_Laos & ~_4_Bachelors
+[0.0, 13.0]
+
+_14_Dominican_Republic | _4_Preschool | _7_Sales | _14_El_Salvador & ~_4_12th
+[13.0, 0.0]
+
+_14_Jamaica | age_ST_46 | _7_Priv_house_serv | _6_Widowed & ~_14_Honduras
+[0.0, 13.0]
+
+_14_Columbia | years_of_education_ST_12 | _2_Never_worked | _14_United_States & ~_2_Local_gov
+[13.0, 0.0]
+
+_2_Private | _14_Peru | _4_Doctorate | _8_Other_relative & ~_14_Ireland
+[0.0, 13.0]
+
+capital_loss_ST_285 | _14_Holand_Netherlands | _14_Puerto_Rico | _14_Ecuador & ~_9_Black
+[0.0, 13.0]
+
+_6_Married_AF_spouse | _4_7th_8th | _14_England | _7_Other_service & ~_14_France
+[0.0, 13.0]
+
+_7_Prof_specialty | _7_Farming_fishing | _6_Married_AF_spouse | _14_Yugoslavia & ~_4_HS_grad
+[0.0, 13.0]
+
+_7_Tech_support | _14_Poland | _14_South | _8_Unmarried & ~_9_Other
+[13.0, 0.0]
+
+_4_Bachelors | _4_12th | _4_5th_6th | _7_Craft_repair & ~_14_Taiwan
+[13.0, 0.0]
+
+_14_Trinadad&Tobago & _6_Never_married | _6_Never_married & ~_7_Sales | _6_Never_married & ~_14_China & ~_14_Thailand
+[13.0, 0.0]
+
+_8_Not_in_family & _4_Some_college | _4_Some_college & ~capital_gain_ST_4685 | _4_Some_college & ~_4_Doctorate & ~_14_Cambodia
+[0.0, 13.0]
+
+_14_Portugal & _7_Handlers_cleaners | _7_Handlers_cleaners & ~_14_Vietnam | _7_Handlers_cleaners & ~_7_Prof_specialty & ~_14_Italy
+[13.0, 0.0]
+
+_14_Italy & _14_United_States | _14_United_States & ~_14_Peru | _14_United_States & ~_4_Assoc_voc & ~_7_Prof_specialty
+[13.0, 0.0]
+
+_14_Philippines & _4_7th_8th | _4_7th_8th & ~_14_Puerto_Rico | _4_7th_8th & ~_14_Jamaica & ~_14_Guatemala
+[13.0, 0.0]
+
+_7_Protective_serv & _14_Iran | _14_Iran & ~_14_Japan | _14_Iran & ~_14_Holand_Netherlands & ~_14_Germany
+[0.0, 13.0]
+
+_7_Protective_serv & age_ST_46 | age_ST_46 & ~_4_Some_college | age_ST_46 & ~_4_Doctorate & ~_7_Prof_specialty
+[0.0, 13.0]
+
+_14_El_Salvador & years_of_education_ST_12 | years_of_education_ST_12 & ~_14_Taiwan | years_of_education_ST_12 & ~_14_Guatemala & ~_14_Haiti
+[0.0, 13.0]
+
+_14_Hong & _14_Guatemala | _14_Guatemala & ~_9_White | _14_Guatemala & ~_9_Asian_Pac_Islander & ~_14_Thailand
+[13.0, 0.0]
+
+_7_Craft_repair & _7_Armed_Forces | _7_Armed_Forces & ~_8_Other_relative | _7_Armed_Forces & ~_14_Germany & ~_6_Married_spouse_absent
+[0.0, 13.0]
+
+_4_HS_grad & _14_Vietnam | _14_Vietnam & ~_14_Greece | _14_Vietnam & ~_4_1st_4th & ~_14_France
+[0.0, 13.0]
+
+_8_Unmarried & _14_China | _14_China & ~_7_Priv_house_serv | _14_China & ~_14_United_States & ~age_ST_46
+[0.0, 13.0]
+
+_14_Japan & _7_Tech_support | _7_Tech_support & ~_14_Italy | _7_Tech_support & ~_14_Ireland & ~_7_Protective_serv
+[13.0, 0.0]
+
+_6_Separated & _8_Other_relative | _8_Other_relative & ~_4_7th_8th | _8_Other_relative & ~_9_Other & ~_7_Machine_op_inspct
+[13.0, 0.0]
+
+_14_Outlying_US(Guam_USVI_etc) & _2_Self_emp_not_inc | _2_Self_emp_not_inc & ~_7_Handlers_cleaners | _2_Self_emp_not_inc & ~_7_Craft_repair & ~_6_Married_spouse_absent
+[0.0, 13.0]
+
+_14_Honduras & _14_Jamaica | _14_Jamaica & ~age_ST_46 | _14_Jamaica & ~_6_Widowed & ~_7_Priv_house_serv
+[13.0, 0.0]
+
+_7_Tech_support & _14_Mexico | _14_Mexico & ~_6_Never_married | _14_Mexico & ~hours_per_week_ST_47 & ~_7_Transport_moving
+[0.0, 13.0]
+
+_14_Mexico & _4_7th_8th | _4_7th_8th & ~_14_Portugal | _4_7th_8th & ~_14_Honduras & ~_14_Peru
+[13.0, 0.0]
+
+_6_Married_AF_spouse & _9_Asian_Pac_Islander | _6_Married_AF_spouse & _4_5th_6th & ~_4_11th | _6_Married_AF_spouse & _2_Without_pay & ~_4_11th | _4_11th & _2_Without_pay & ~_4_5th_6th | _4_5th_6th & _9_Asian_Pac_Islander & ~_4_11th | ~_6_Married_AF_spouse & ~_4_11th & ~_4_5th_6th & ~_2_Without_pay
+[0.0, 13.0]
+
+_2_Never_worked & _14_Haiti | _2_Never_worked & _14_South & ~_8_Wife | _2_Never_worked & _14_Mexico & ~_8_Wife | _8_Wife & _14_Mexico & ~_14_South | _14_South & _14_Haiti & ~_8_Wife | ~_2_Never_worked & ~_8_Wife & ~_14_South & ~_14_Mexico
+[13.0, 0.0]
+
+_14_Portugal & _14_Italy | _14_Portugal & _14_Vietnam & ~_7_Handlers_cleaners | _14_Portugal & _7_Prof_specialty & ~_7_Handlers_cleaners | _7_Handlers_cleaners & _7_Prof_specialty & ~_14_Vietnam | _14_Vietnam & _14_Italy & ~_7_Handlers_cleaners | ~_14_Portugal & ~_7_Handlers_cleaners & ~_14_Vietnam & ~_7_Prof_specialty
+[13.0, 0.0]
+
+_4_Assoc_voc & _2_Local_gov | _4_Assoc_voc & _14_Canada & ~capital_loss_ST_285 | _4_Assoc_voc & _9_White & ~capital_loss_ST_285 | capital_loss_ST_285 & _9_White & ~_14_Canada | _14_Canada & _2_Local_gov & ~capital_loss_ST_285 | ~_4_Assoc_voc & ~capital_loss_ST_285 & ~_14_Canada & ~_9_White
+[13.0, 0.0]
+
+_7_Machine_op_inspct & _14_Holand_Netherlands | _7_Machine_op_inspct & _2_State_gov & ~_6_Married_spouse_absent | _7_Machine_op_inspct & _6_Separated & ~_6_Married_spouse_absent | _6_Married_spouse_absent & _6_Separated & ~_2_State_gov | _2_State_gov & _14_Holand_Netherlands & ~_6_Married_spouse_absent | ~_7_Machine_op_inspct & ~_6_Married_spouse_absent & ~_2_State_gov & ~_6_Separated
+[13.0, 0.0]
+
+_4_Prof_school & _4_HS_grad | _4_Prof_school & _4_1st_4th & ~_9_Black | _4_Prof_school & _7_Handlers_cleaners & ~_9_Black | _9_Black & _7_Handlers_cleaners & ~_4_1st_4th | _4_1st_4th & _4_HS_grad & ~_9_Black | ~_4_Prof_school & ~_9_Black & ~_4_1st_4th & ~_7_Handlers_cleaners
+[0.0, 13.0]
+
+_7_Farming_fishing & _4_Prof_school | _7_Farming_fishing & _2_Never_worked & ~_4_9th | _7_Farming_fishing & capital_loss_ST_285 & ~_4_9th | _4_9th & capital_loss_ST_285 & ~_2_Never_worked | _2_Never_worked & _4_Prof_school & ~_4_9th | ~_7_Farming_fishing & ~_4_9th & ~_2_Never_worked & ~capital_loss_ST_285
+[0.0, 13.0]
+
+_14_Trinadad&Tobago & _4_Assoc_acdm | _14_Trinadad&Tobago & _14_Honduras & ~_6_Married_spouse_absent | _14_Trinadad&Tobago & _14_United_States & ~_6_Married_spouse_absent | _6_Married_spouse_absent & _14_United_States & ~_14_Honduras | _14_Honduras & _4_Assoc_acdm & ~_6_Married_spouse_absent | ~_14_Trinadad&Tobago & ~_6_Married_spouse_absent & ~_14_Honduras & ~_14_United_States
+[13.0, 0.0]
+
+_14_Italy & _4_Assoc_acdm | _14_Italy & _8_Other_relative & ~_14_Outlying_US(Guam_USVI_etc) | _14_Italy & _14_Germany & ~_14_Outlying_US(Guam_USVI_etc) | _14_Outlying_US(Guam_USVI_etc) & _14_Germany & ~_8_Other_relative | _8_Other_relative & _4_Assoc_acdm & ~_14_Outlying_US(Guam_USVI_etc) | ~_14_Italy & ~_14_Outlying_US(Guam_USVI_etc) & ~_8_Other_relative & ~_14_Germany
+[13.0, 0.0]
+
+_9_White & _4_Bachelors | _9_White & _14_United_States & ~_6_Widowed | _9_White & _14_Ecuador & ~_6_Widowed | _6_Widowed & _14_Ecuador & ~_14_United_States | _14_United_States & _4_Bachelors & ~_6_Widowed | ~_9_White & ~_6_Widowed & ~_14_United_States & ~_14_Ecuador
+[13.0, 0.0]
+
+_14_Portugal & _4_Prof_school | _14_Portugal & _4_Masters & ~_14_Peru | _14_Portugal & _2_Local_gov & ~_14_Peru | _14_Peru & _2_Local_gov & ~_4_Masters | _4_Masters & _4_Prof_school & ~_14_Peru | ~_14_Portugal & ~_14_Peru & ~_4_Masters & ~_2_Local_gov
+[13.0, 0.0]
+
+_2_Private & _14_Trinadad&Tobago | _2_Private & years_of_education_ST_12 & ~_2_State_gov | _2_Private & _14_Outlying_US(Guam_USVI_etc) & ~_2_State_gov | _2_State_gov & _14_Outlying_US(Guam_USVI_etc) & ~years_of_education_ST_12 | years_of_education_ST_12 & _14_Trinadad&Tobago & ~_2_State_gov | ~_2_Private & ~_2_State_gov & ~years_of_education_ST_12 & ~_14_Outlying_US(Guam_USVI_etc)
+[13.0, 0.0]
+
+_2_Without_pay & _14_Poland | _2_Without_pay & _14_Peru & ~_2_State_gov | _2_Without_pay & _14_Trinadad&Tobago & ~_2_State_gov | _2_State_gov & _14_Trinadad&Tobago & ~_14_Peru | _14_Peru & _14_Poland & ~_2_State_gov | ~_2_Without_pay & ~_2_State_gov & ~_14_Peru & ~_14_Trinadad&Tobago
+[0.0, 13.0]
+
+_4_Masters & _14_Germany | _4_Masters & _4_12th & ~_6_Married_spouse_absent | _4_Masters & _4_Doctorate & ~_6_Married_spouse_absent | _6_Married_spouse_absent & _4_Doctorate & ~_4_12th | _4_12th & _14_Germany & ~_6_Married_spouse_absent | ~_4_Masters & ~_6_Married_spouse_absent & ~_4_12th & ~_4_Doctorate
+[0.0, 13.0]
+
+_14_Philippines & _14_Taiwan | _14_Philippines & _4_9th & ~_14_India | _14_Philippines & _14_Guatemala & ~_14_India | _14_India & _14_Guatemala & ~_4_9th | _4_9th & _14_Taiwan & ~_14_India | ~_14_Philippines & ~_14_India & ~_4_9th & ~_14_Guatemala
+[0.0, 13.0]
+
+_6_Never_married & _8_Not_in_family | _6_Never_married & capital_gain_ST_4685 & ~_2_Federal_gov | _6_Never_married & _7_Handlers_cleaners & ~_2_Federal_gov | _2_Federal_gov & _7_Handlers_cleaners & ~capital_gain_ST_4685 | capital_gain_ST_4685 & _8_Not_in_family & ~_2_Federal_gov | ~_6_Never_married & ~_2_Federal_gov & ~capital_gain_ST_4685 & ~_7_Handlers_cleaners
+[0.0, 13.0]
+
+_14_Haiti & _7_Craft_repair | _14_Haiti & _14_Ecuador & ~_14_England | _14_Haiti & _14_Columbia & ~_14_England | _14_England & _14_Columbia & ~_14_Ecuador | _14_Ecuador & _7_Craft_repair & ~_14_England | ~_14_Haiti & ~_14_England & ~_14_Ecuador & ~_14_Columbia
+[13.0, 0.0]
+
+_8_Wife & _7_Adm_clerical | _8_Wife & _2_Self_emp_not_inc & ~_9_Asian_Pac_Islander | _8_Wife & _14_Dominican_Republic & ~_9_Asian_Pac_Islander | _9_Asian_Pac_Islander & _14_Dominican_Republic & ~_2_Self_emp_not_inc | _2_Self_emp_not_inc & _7_Adm_clerical & ~_9_Asian_Pac_Islander | ~_8_Wife & ~_9_Asian_Pac_Islander & ~_2_Self_emp_not_inc & ~_14_Dominican_Republic
+[0.0, 13.0]
+
+_14_Japan & _7_Protective_serv | _14_Japan & _14_Italy & ~_7_Tech_support | _14_Japan & _14_Ireland & ~_7_Tech_support | _7_Tech_support & _14_Ireland & ~_14_Italy | _14_Italy & _7_Protective_serv & ~_7_Tech_support | ~_14_Japan & ~_7_Tech_support & ~_14_Italy & ~_14_Ireland
+[13.0, 0.0]
+
+_14_Haiti & capital_gain_ST_4685 | _14_Haiti & age_ST_46 & ~_14_Greece | _14_Haiti & hours_per_week_ST_47 & ~_14_Greece | _14_Greece & hours_per_week_ST_47 & ~age_ST_46 | age_ST_46 & capital_gain_ST_4685 & ~_14_Greece | ~_14_Haiti & ~_14_Greece & ~age_ST_46 & ~hours_per_week_ST_47
+[13.0, 0.0]
+
+_4_Bachelors & _14_Mexico | _4_Bachelors & _9_Black & ~_4_Preschool | _4_Bachelors & _14_Laos & ~_4_Preschool | _4_Preschool & _14_Laos & ~_9_Black | _9_Black & _14_Mexico & ~_4_Preschool | ~_4_Bachelors & ~_4_Preschool & ~_9_Black & ~_14_Laos
+[13.0, 0.0]
+
+_4_Masters & _2_Federal_gov | _4_Masters & _4_5th_6th & ~_9_White | _4_Masters & _4_HS_grad & ~_9_White | _9_White & _4_HS_grad & ~_4_5th_6th | _4_5th_6th & _2_Federal_gov & ~_9_White | ~_4_Masters & ~_9_White & ~_4_5th_6th & ~_4_HS_grad
+[13.0, 0.0]
+
+_14_Haiti & _8_Wife | _14_Haiti & _8_Not_in_family & ~_4_11th | _14_Haiti & _14_Hungary & ~_4_11th | _4_11th & _14_Hungary & ~_8_Not_in_family | _8_Not_in_family & _8_Wife & ~_4_11th | ~_14_Haiti & ~_4_11th & ~_8_Not_in_family & ~_14_Hungary
+[13.0, 0.0]
+
+_7_Prof_specialty & _14_Greece | _7_Prof_specialty & _14_Canada & ~_9_Asian_Pac_Islander | _7_Prof_specialty & _7_Exec_managerial & ~_9_Asian_Pac_Islander | _9_Asian_Pac_Islander & _7_Exec_managerial & ~_14_Canada | _14_Canada & _14_Greece & ~_9_Asian_Pac_Islander | ~_7_Prof_specialty & ~_9_Asian_Pac_Islander & ~_14_Canada & ~_7_Exec_managerial
+[13.0, 0.0]
+
+_14_Mexico & _14_Peru | _14_Mexico & _14_Portugal & ~_4_7th_8th | _14_Mexico & _14_Honduras & ~_4_7th_8th | _4_7th_8th & _14_Honduras & ~_14_Portugal | _14_Portugal & _14_Peru & ~_4_7th_8th | ~_14_Mexico & ~_4_7th_8th & ~_14_Portugal & ~_14_Honduras
+[0.0, 13.0]
+
+_14_Jamaica & _7_Priv_house_serv | _14_Jamaica & _14_Hong & ~capital_gain_ST_4685 | _14_Jamaica & _14_Puerto_Rico & ~capital_gain_ST_4685 | capital_gain_ST_4685 & _14_Puerto_Rico & ~_14_Hong | _14_Hong & _7_Priv_house_serv & ~capital_gain_ST_4685 | ~_14_Jamaica & ~capital_gain_ST_4685 & ~_14_Hong & ~_14_Puerto_Rico
+[13.0, 0.0]
+
+_14_South & _14_Haiti & ~_8_Wife | _14_South & ~_8_Wife & ~_14_Mexico | _14_Haiti & ~_8_Wife & ~_14_Mexico | ~_2_Never_worked & ~_8_Wife & ~_14_Mexico
+[13.0, 0.0]
+
+_14_Japan & _14_Holand_Netherlands & ~_7_Craft_repair | _14_Japan & ~_7_Craft_repair & ~_14_Cuba | _14_Holand_Netherlands & ~_7_Craft_repair & ~_14_Cuba | ~_4_Prof_school & ~_7_Craft_repair & ~_14_Cuba
+[13.0, 0.0]
+
+_4_HS_grad & _14_Honduras & ~_7_Protective_serv | _4_HS_grad & ~_7_Protective_serv & ~_14_Laos | _14_Honduras & ~_7_Protective_serv & ~_14_Laos | ~_14_Philippines & ~_7_Protective_serv & ~_14_Laos
+[13.0, 0.0]
+
+_6_Separated & _8_Own_child & ~_14_Greece | _6_Separated & ~_14_Greece & ~_14_Italy | _8_Own_child & ~_14_Greece & ~_14_Italy | ~_4_Doctorate & ~_14_Greece & ~_14_Italy
+[13.0, 0.0]
+
+_9_White & _14_Guatemala & ~_7_Prof_specialty | _9_White & ~_7_Prof_specialty & ~_14_France | _14_Guatemala & ~_7_Prof_specialty & ~_14_France | ~_14_England & ~_7_Prof_specialty & ~_14_France
+[13.0, 0.0]
+
+age_ST_46 & _7_Farming_fishing & ~_14_Holand_Netherlands | age_ST_46 & ~_14_Holand_Netherlands & ~_7_Priv_house_serv | _7_Farming_fishing & ~_14_Holand_Netherlands & ~_7_Priv_house_serv | ~_7_Exec_managerial & ~_14_Holand_Netherlands & ~_7_Priv_house_serv
+[0.0, 13.0]
+
+_10_Male & _14_United_States & ~_14_Cuba | _10_Male & ~_14_Cuba & ~_14_Iran | _14_United_States & ~_14_Cuba & ~_14_Iran | ~_9_Other & ~_14_Cuba & ~_14_Iran
+[13.0, 0.0]
+
+_14_Canada & _2_Local_gov & ~capital_loss_ST_285 | _14_Canada & ~capital_loss_ST_285 & ~_9_White | _2_Local_gov & ~capital_loss_ST_285 & ~_9_White | ~_4_Assoc_voc & ~capital_loss_ST_285 & ~_9_White
+[13.0, 0.0]
+
+_7_Other_service & _2_State_gov & ~_14_Hong | _7_Other_service & ~_14_Hong & ~_14_El_Salvador | _2_State_gov & ~_14_Hong & ~_14_El_Salvador | ~_2_Without_pay & ~_14_Hong & ~_14_El_Salvador
+[13.0, 0.0]
+
+_7_Priv_house_serv & _4_12th & ~_6_Widowed | _7_Priv_house_serv & ~_6_Widowed & ~_14_Hungary | _4_12th & ~_6_Widowed & ~_14_Hungary | ~_2_Local_gov & ~_6_Widowed & ~_14_Hungary
+[0.0, 13.0]
+
+capital_loss_ST_285 & _7_Exec_managerial & ~_6_Married_AF_spouse | capital_loss_ST_285 & ~_6_Married_AF_spouse & ~_14_France | _7_Exec_managerial & ~_6_Married_AF_spouse & ~_14_France | ~years_of_education_ST_12 & ~_6_Married_AF_spouse & ~_14_France
+[13.0, 0.0]
+
+_14_Honduras & _4_Assoc_acdm & ~_6_Married_spouse_absent | _14_Honduras & ~_6_Married_spouse_absent & ~_14_United_States | _4_Assoc_acdm & ~_6_Married_spouse_absent & ~_14_United_States | ~_14_Trinadad&Tobago & ~_6_Married_spouse_absent & ~_14_United_States
+[13.0, 0.0]
+
+_14_Portugal & _14_Outlying_US(Guam_USVI_etc) & ~_6_Never_married | _14_Portugal & ~_6_Never_married & ~_2_Private | _14_Outlying_US(Guam_USVI_etc) & ~_6_Never_married & ~_2_Private | ~_7_Priv_house_serv & ~_6_Never_married & ~_2_Private
+[0.0, 13.0]
+
+_7_Transport_moving & _4_9th & ~_14_Nicaragua | _7_Transport_moving & ~_14_Nicaragua & ~_9_Other | _4_9th & ~_14_Nicaragua & ~_9_Other | ~_7_Armed_Forces & ~_14_Nicaragua & ~_9_Other
+[13.0, 0.0]
+
+_14_Japan & _7_Machine_op_inspct & ~capital_gain_ST_4685 | _14_Japan & ~capital_gain_ST_4685 & ~_8_Own_child | _7_Machine_op_inspct & ~capital_gain_ST_4685 & ~_8_Own_child | ~_7_Priv_house_serv & ~capital_gain_ST_4685 & ~_8_Own_child
+[13.0, 0.0]
+
+_14_Taiwan & _14_Haiti & ~years_of_education_ST_12 | _14_Taiwan & ~years_of_education_ST_12 & ~_14_Guatemala | _14_Haiti & ~years_of_education_ST_12 & ~_14_Guatemala | ~_14_El_Salvador & ~years_of_education_ST_12 & ~_14_Guatemala
+[13.0, 0.0]
+
+_4_5th_6th & _14_India & ~_14_Philippines | _4_5th_6th & ~_14_Philippines & ~_4_Preschool | _14_India & ~_14_Philippines & ~_4_Preschool | ~_8_Not_in_family & ~_14_Philippines & ~_4_Preschool
+[13.0, 0.0]
+
+_4_Masters & _4_Prof_school & ~_14_Peru | _4_Masters & ~_14_Peru & ~_2_Local_gov | _4_Prof_school & ~_14_Peru & ~_2_Local_gov | ~_14_Portugal & ~_14_Peru & ~_2_Local_gov
+[13.0, 0.0]
+
+_2_Self_emp_not_inc & _4_Bachelors & ~_7_Sales | _2_Self_emp_not_inc & ~_7_Sales & ~_6_Widowed | _4_Bachelors & ~_7_Sales & ~_6_Widowed | ~_4_Doctorate & ~_7_Sales & ~_6_Widowed
+[13.0, 0.0]
+
+_6_Married_AF_spouse & _7_Tech_support & ~_2_Self_emp_inc | _6_Married_AF_spouse & ~_2_Self_emp_inc & ~_10_Male | _7_Tech_support & ~_2_Self_emp_inc & ~_10_Male | ~_4_12th & ~_2_Self_emp_inc & ~_10_Male
+[13.0, 0.0]
+
+_4_9th & _14_Taiwan & ~_14_India | _4_9th & ~_14_India & ~_14_Guatemala | _14_Taiwan & ~_14_India & ~_14_Guatemala | ~_14_Philippines & ~_14_India & ~_14_Guatemala
+[0.0, 13.0]
+
+_2_Private & _7_Transport_moving & ~_4_7th_8th | _2_Private & ~_4_7th_8th & ~_14_Thailand | _7_Transport_moving & ~_4_7th_8th & ~_14_Thailand | ~_4_Preschool & ~_4_7th_8th & ~_14_Thailand
+[13.0, 0.0]
+
+_8_Unmarried & _4_12th & ~_2_Local_gov | _8_Unmarried & ~_2_Local_gov & ~_14_Scotland | _4_12th & ~_2_Local_gov & ~_14_Scotland | ~_2_Without_pay & ~_2_Local_gov & ~_14_Scotland
+[13.0, 0.0]
+
+age_ST_46 & capital_gain_ST_4685 & ~_14_Greece | age_ST_46 & ~_14_Greece & ~hours_per_week_ST_47 | capital_gain_ST_4685 & ~_14_Greece & ~hours_per_week_ST_47 | ~_14_Haiti & ~_14_Greece & ~hours_per_week_ST_47
+[13.0, 0.0]
+
+_9_Black & _14_Mexico & ~_4_Preschool | _9_Black & ~_4_Preschool & ~_14_Laos | _14_Mexico & ~_4_Preschool & ~_14_Laos | ~_4_Bachelors & ~_4_Preschool & ~_14_Laos
+[13.0, 0.0]
+
+years_of_education_ST_12 & _2_Never_worked & ~_14_Columbia | years_of_education_ST_12 & ~_14_Columbia & ~_14_United_States | _2_Never_worked & ~_14_Columbia & ~_14_United_States | ~_2_Local_gov & ~_14_Columbia & ~_14_United_States
+[0.0, 13.0]
+
+_14_Hong & _7_Priv_house_serv & ~capital_gain_ST_4685 | _14_Hong & ~capital_gain_ST_4685 & ~_14_Puerto_Rico | _7_Priv_house_serv & ~capital_gain_ST_4685 & ~_14_Puerto_Rico | ~_14_Jamaica & ~capital_gain_ST_4685 & ~_14_Puerto_Rico
+[13.0, 0.0]
+
+_14_Scotland & _14_El_Salvador & ~years_of_education_ST_12 | _14_Scotland & ~years_of_education_ST_12 & ~_10_Male | _14_El_Salvador & ~years_of_education_ST_12 & ~_10_Male | ~_4_Doctorate & ~years_of_education_ST_12 & ~_10_Male
+[13.0, 0.0]
+
+_7_Handlers_cleaners & _7_Other_service & ~_4_Some_college | _7_Handlers_cleaners & ~_4_Some_college & ~_14_Hungary | _7_Other_service & ~_4_Some_college & ~_14_Hungary | ~_14_Cambodia & ~_4_Some_college & ~_14_Hungary
+[13.0, 0.0]
+
+_4_9th & ~_2_Local_gov | _14_United_States & ~age_ST_46 | _4_9th & _14_United_States & _14_Canada | _14_Canada & ~_4_9th & ~age_ST_46 | ~_2_Local_gov & ~_14_United_States & ~_14_Canada
+[13.0, 0.0]
+
+_14_Yugoslavia & ~_14_Peru | _8_Not_in_family & ~hours_per_week_ST_47 | _14_Yugoslavia & _8_Not_in_family & _14_Scotland | _14_Scotland & ~_14_Yugoslavia & ~hours_per_week_ST_47 | ~_14_Peru & ~_8_Not_in_family & ~_14_Scotland
+[13.0, 0.0]
+
+_14_Ireland & ~_9_Other | _14_Hong & ~_6_Married_spouse_absent | _14_Ireland & _14_Hong & capital_loss_ST_285 | capital_loss_ST_285 & ~_14_Ireland & ~_6_Married_spouse_absent | ~_9_Other & ~_14_Hong & ~capital_loss_ST_285
+[0.0, 13.0]
+
+_7_Exec_managerial & ~_14_Holand_Netherlands | age_ST_46 & ~_7_Priv_house_serv | _7_Exec_managerial & age_ST_46 & _7_Farming_fishing | _7_Farming_fishing & ~_7_Exec_managerial & ~_7_Priv_house_serv | ~_14_Holand_Netherlands & ~age_ST_46 & ~_7_Farming_fishing
+[13.0, 0.0]
+
+_14_Puerto_Rico & ~_14_Trinadad&Tobago | _7_Machine_op_inspct & ~_2_Never_worked | _14_Puerto_Rico & _7_Machine_op_inspct & _14_Dominican_Republic | _14_Dominican_Republic & ~_14_Puerto_Rico & ~_2_Never_worked | ~_14_Trinadad&Tobago & ~_7_Machine_op_inspct & ~_14_Dominican_Republic
+[0.0, 13.0]
+
+_14_England & ~_7_Farming_fishing | _14_Yugoslavia & ~_14_China | _14_England & _14_Yugoslavia & _14_Germany | _14_Germany & ~_14_England & ~_14_China | ~_7_Farming_fishing & ~_14_Yugoslavia & ~_14_Germany
+[0.0, 13.0]
+
+_14_Mexico & ~_14_Ireland | _6_Separated & ~_14_India | _14_Mexico & _6_Separated & _7_Tech_support | _7_Tech_support & ~_14_Mexico & ~_14_India | ~_14_Ireland & ~_6_Separated & ~_7_Tech_support
+[0.0, 13.0]
+
+_7_Protective_serv & ~age_ST_46 | _4_Some_college & ~_4_Doctorate | _7_Protective_serv & _4_Some_college & _7_Prof_specialty | _7_Prof_specialty & ~_7_Protective_serv & ~_4_Doctorate | ~age_ST_46 & ~_4_Some_college & ~_7_Prof_specialty
+[13.0, 0.0]
+
+_7_Craft_repair & ~_7_Armed_Forces | _8_Other_relative & ~_14_Germany | _7_Craft_repair & _8_Other_relative & _6_Married_spouse_absent | _6_Married_spouse_absent & ~_7_Craft_repair & ~_14_Germany | ~_7_Armed_Forces & ~_8_Other_relative & ~_6_Married_spouse_absent
+[13.0, 0.0]
+
+_9_White & ~_7_Other_service | _14_Portugal & ~_7_Sales | _9_White & _14_Portugal & _2_Never_worked | _2_Never_worked & ~_9_White & ~_7_Sales | ~_7_Other_service & ~_14_Portugal & ~_2_Never_worked
+[13.0, 0.0]
+
+_4_Preschool & ~_4_7th_8th | _2_Private & ~_14_Thailand | _4_Preschool & _2_Private & _7_Transport_moving | _7_Transport_moving & ~_4_Preschool & ~_14_Thailand | ~_4_7th_8th & ~_2_Private & ~_7_Transport_moving
+[0.0, 13.0]
+
+_14_China & ~_14_Holand_Netherlands | _9_White & ~_7_Other_service | _14_China & _9_White & _8_Wife | _8_Wife & ~_14_China & ~_7_Other_service | ~_14_Holand_Netherlands & ~_9_White & ~_8_Wife
+[0.0, 13.0]
+
+_2_Federal_gov & ~_6_Married_spouse_absent | _4_1st_4th & ~_14_Jamaica | _2_Federal_gov & _4_1st_4th & _7_Sales | _7_Sales & ~_2_Federal_gov & ~_14_Jamaica | ~_6_Married_spouse_absent & ~_4_1st_4th & ~_7_Sales
+[13.0, 0.0]
+
+age_ST_46 & ~_2_Local_gov | capital_loss_ST_285 & ~_14_Thailand | age_ST_46 & capital_loss_ST_285 & _8_Not_in_family | _8_Not_in_family & ~age_ST_46 & ~_14_Thailand | ~_2_Local_gov & ~capital_loss_ST_285 & ~_8_Not_in_family
+[13.0, 0.0]
+
+_6_Widowed | _7_Handlers_cleaners | _14_Taiwan | _8_Other_relative | _4_Assoc_acdm
+[13.0, 0.0]
+
+_14_Ireland | _9_Other | _14_Hong | _6_Married_spouse_absent | capital_loss_ST_285
+[0.0, 13.0]
+
+_14_Jamaica | _14_India | _14_El_Salvador | _7_Transport_moving | _4_12th
+[13.0, 0.0]
+
+_8_Not_in_family | _4_Some_college | capital_gain_ST_4685 | _4_Doctorate | _14_Cambodia
+[0.0, 13.0]
+
+_9_Other | _14_Cuba | _10_Male | _14_Iran | _14_United_States
+[0.0, 13.0]
+
+_4_Assoc_voc | capital_loss_ST_285 | _14_Canada | _9_White | _2_Local_gov
+[0.0, 13.0]
+
+_14_Peru | _14_Ecuador | _2_Self_emp_inc | _2_Private | _14_Outlying_US(Guam_USVI_etc)
+[0.0, 13.0]
+
+_7_Machine_op_inspct | _6_Married_spouse_absent | _2_State_gov | _6_Separated | _14_Holand_Netherlands
+[0.0, 13.0]
+
+_14_Philippines | _4_7th_8th | _14_Puerto_Rico | _14_Jamaica | _14_Guatemala
+[0.0, 13.0]
+
+_14_Canada | _4_Assoc_voc | _14_Philippines | _4_5th_6th | _14_Ecuador
+[13.0, 0.0]
+
+_4_11th | _7_Prof_specialty | _2_Self_emp_not_inc | _14_Cuba | _4_7th_8th
+[0.0, 13.0]
+
+_14_El_Salvador | years_of_education_ST_12 | _14_Taiwan | _14_Guatemala | _14_Haiti
+[0.0, 13.0]
+
+_9_White | _6_Widowed | _14_United_States | _14_Ecuador | _4_Bachelors
+[0.0, 13.0]
+
+_14_Portugal | _14_Peru | _4_Masters | _2_Local_gov | _4_Prof_school
+[0.0, 13.0]
+
+_14_Puerto_Rico | hours_per_week_ST_47 | _8_Wife | _4_9th | _14_El_Salvador
+[13.0, 0.0]
+
+poids_binaire_raciste_ST_241322 | _14_India | _4_Preschool | _2_Federal_gov | _14_Canada
+[13.0, 0.0]
+
+_14_Holand_Netherlands | _14_Hungary | _14_Mexico | _6_Separated | _14_Ireland
+[13.0, 0.0]
+
+_4_Masters | _6_Married_spouse_absent | _4_12th | _4_Doctorate | _14_Germany
+[13.0, 0.0]
+
+_14_Haiti | _14_England | _14_Ecuador | _14_Columbia | _7_Craft_repair
+[0.0, 13.0]
+
+_8_Wife | _9_Asian_Pac_Islander | _2_Self_emp_not_inc | _14_Dominican_Republic | _7_Adm_clerical
+[13.0, 0.0]
+
+_9_Other | _4_11th | _8_Other_relative | _14_Canada | _4_Prof_school
+[0.0, 13.0]
+
+_7_Prof_specialty | _14_Portugal | _14_South | _6_Widowed | _14_Ecuador
+[13.0, 0.0]
+
+poids_binaire_raciste_ST_241322 | _14_Germany | _14_Peru | _14_Cambodia | _7_Farming_fishing
+[0.0, 13.0]
+
+_2_Never_worked | _7_Transport_moving | _14_Iran | _14_England | _4_Assoc_voc
+[0.0, 13.0]
+
+_2_State_gov | _14_Canada | _4_Assoc_acdm | _4_Prof_school | _6_Never_married
+[0.0, 13.0]
+
+_2_Without_pay | _2_Local_gov | _8_Unmarried | _14_Scotland | _4_12th
+[0.0, 13.0]
+
+_14_Haiti | _14_Greece | age_ST_46 | hours_per_week_ST_47 | capital_gain_ST_4685
+[0.0, 13.0]
+
+_14_Taiwan | _7_Adm_clerical | _14_Laos | _7_Armed_Forces | _14_Portugal
+[0.0, 13.0]
+
+_14_Honduras | _14_Jamaica | age_ST_46 | _6_Widowed | _7_Priv_house_serv
+[0.0, 13.0]
+
+_9_Other | _2_State_gov | _8_Unmarried | _14_Germany | _14_Philippines
+[0.0, 13.0]
+
+_2_Local_gov | _14_Columbia | years_of_education_ST_12 | _14_United_States | _2_Never_worked
+[13.0, 0.0]
+
+_14_Ireland | _2_Private | _14_Peru | _8_Other_relative | _4_Doctorate
+[0.0, 13.0]
+
+_14_Haiti | _4_11th | _8_Not_in_family | _14_Hungary | _8_Wife
+[0.0, 13.0]
+
+_4_HS_grad | _7_Prof_specialty | _7_Farming_fishing | _14_Yugoslavia | _6_Married_AF_spouse
+[0.0, 13.0]
+
+_9_Other | _7_Tech_support | _14_Poland | _8_Unmarried | _14_South
+[13.0, 0.0]
+
+_8_Wife | poids_binaire_raciste_ST_241322 | _2_Without_pay | _9_Asian_Pac_Islander | _14_Dominican_Republic
+[0.0, 13.0]
+
+_14_Cambodia | _4_Some_college | _7_Handlers_cleaners | _14_Hungary | _7_Other_service
+[0.0, 13.0]
+
+_6_Married_AF_spouse & ~_4_11th & ~_4_5th_6th | _6_Married_AF_spouse & ~_4_11th & ~_2_Without_pay | ~_4_11th & ~_4_5th_6th & ~_2_Without_pay
+[0.0, 13.0]
+
+_4_9th & ~_2_Local_gov & ~_14_United_States | _4_9th & ~_2_Local_gov & ~age_ST_46 | ~_2_Local_gov & ~_14_United_States & ~age_ST_46
+[13.0, 0.0]
+
+_14_Ireland & ~_9_Other & ~_14_Hong | _14_Ireland & ~_9_Other & ~_6_Married_spouse_absent | ~_9_Other & ~_14_Hong & ~_6_Married_spouse_absent
+[0.0, 13.0]
+
+_8_Unmarried & ~years_of_education_ST_12 & ~_2_Federal_gov | _8_Unmarried & ~years_of_education_ST_12 & ~_14_Iran | ~years_of_education_ST_12 & ~_2_Federal_gov & ~_14_Iran
+[13.0, 0.0]
+
+_7_Farming_fishing & ~_2_Self_emp_not_inc & ~_14_Cambodia | _7_Farming_fishing & ~_2_Self_emp_not_inc & ~capital_gain_ST_4685 | ~_2_Self_emp_not_inc & ~_14_Cambodia & ~capital_gain_ST_4685
+[13.0, 0.0]
+
+_4_Assoc_voc & ~capital_loss_ST_285 & ~_14_Canada | _4_Assoc_voc & ~capital_loss_ST_285 & ~_9_White | ~capital_loss_ST_285 & ~_14_Canada & ~_9_White
+[13.0, 0.0]
+
+_14_Japan & ~_14_Poland & ~_14_Nicaragua | _14_Japan & ~_14_Poland & ~_14_Scotland | ~_14_Poland & ~_14_Nicaragua & ~_14_Scotland
+[0.0, 13.0]
+
+_14_Haiti & ~_8_Wife & ~_2_Self_emp_not_inc | _14_Haiti & ~_8_Wife & ~_14_Greece | ~_8_Wife & ~_2_Self_emp_not_inc & ~_14_Greece
+[0.0, 13.0]
+
+_14_Columbia & ~_2_Federal_gov & ~_14_Portugal | _14_Columbia & ~_2_Federal_gov & ~poids_binaire_raciste_ST_241322 | ~_2_Federal_gov & ~_14_Portugal & ~poids_binaire_raciste_ST_241322
+[0.0, 13.0]
+
+_2_Private & ~_7_Sales & ~_4_Masters | _2_Private & ~_7_Sales & ~_14_Dominican_Republic | ~_7_Sales & ~_4_Masters & ~_14_Dominican_Republic
+[13.0, 0.0]
+
+_14_El_Salvador & ~years_of_education_ST_12 & ~_14_Taiwan | _14_El_Salvador & ~years_of_education_ST_12 & ~_14_Guatemala | ~years_of_education_ST_12 & ~_14_Taiwan & ~_14_Guatemala
+[13.0, 0.0]
+
+_14_Portugal & ~_14_Peru & ~_4_Masters | _14_Portugal & ~_14_Peru & ~_2_Local_gov | ~_14_Peru & ~_4_Masters & ~_2_Local_gov
+[13.0, 0.0]
+
+_14_Laos & ~_4_7th_8th & ~_14_Taiwan | _14_Laos & ~_4_7th_8th & ~_7_Prof_specialty | ~_4_7th_8th & ~_14_Taiwan & ~_7_Prof_specialty
+[0.0, 13.0]
+
+_4_Masters & ~_6_Married_spouse_absent & ~_4_12th | _4_Masters & ~_6_Married_spouse_absent & ~_4_Doctorate | ~_6_Married_spouse_absent & ~_4_12th & ~_4_Doctorate
+[0.0, 13.0]
+
+_9_White & ~_7_Other_service & ~_14_Portugal | _9_White & ~_7_Other_service & ~_7_Sales | ~_7_Other_service & ~_14_Portugal & ~_7_Sales
+[13.0, 0.0]
+
+_6_Never_married & ~_2_Federal_gov & ~capital_gain_ST_4685 | _6_Never_married & ~_2_Federal_gov & ~_7_Handlers_cleaners | ~_2_Federal_gov & ~capital_gain_ST_4685 & ~_7_Handlers_cleaners
+[0.0, 13.0]
+
+_8_Wife & ~_9_Asian_Pac_Islander & ~_2_Self_emp_not_inc | _8_Wife & ~_9_Asian_Pac_Islander & ~_14_Dominican_Republic | ~_9_Asian_Pac_Islander & ~_2_Self_emp_not_inc & ~_14_Dominican_Republic
+[0.0, 13.0]
+
+_14_Haiti & ~_14_Greece & ~age_ST_46 | _14_Haiti & ~_14_Greece & ~hours_per_week_ST_47 | ~_14_Greece & ~age_ST_46 & ~hours_per_week_ST_47
+[13.0, 0.0]
+
+_4_Bachelors & ~_4_Preschool & ~_9_Black | _4_Bachelors & ~_4_Preschool & ~_14_Laos | ~_4_Preschool & ~_9_Black & ~_14_Laos
+[13.0, 0.0]
+
+_14_Honduras & ~_14_Jamaica & ~age_ST_46 | _14_Honduras & ~_14_Jamaica & ~_6_Widowed | ~_14_Jamaica & ~age_ST_46 & ~_6_Widowed
+[13.0, 0.0]
+
+_9_Other & ~_2_State_gov & ~_8_Unmarried | _9_Other & ~_2_State_gov & ~_14_Germany | ~_2_State_gov & ~_8_Unmarried & ~_14_Germany
+[13.0, 0.0]
+
+_14_Ireland & ~_2_Private & ~_14_Peru | _14_Ireland & ~_2_Private & ~_8_Other_relative | ~_2_Private & ~_14_Peru & ~_8_Other_relative
+[13.0, 0.0]
+
+_9_Black & ~capital_loss_ST_285 & ~_14_Holand_Netherlands | _9_Black & ~capital_loss_ST_285 & ~_14_Ecuador | ~capital_loss_ST_285 & ~_14_Holand_Netherlands & ~_14_Ecuador
+[13.0, 0.0]
+
+_7_Tech_support & ~_14_Mexico & ~_6_Never_married | _7_Tech_support & ~_14_Mexico & ~hours_per_week_ST_47 | ~_14_Mexico & ~_6_Never_married & ~hours_per_week_ST_47
+[13.0, 0.0]
+
+_14_Haiti & ~_4_11th & ~_8_Not_in_family | _14_Haiti & ~_4_11th & ~_14_Hungary | ~_4_11th & ~_8_Not_in_family & ~_14_Hungary
+[13.0, 0.0]
+
+_7_Prof_specialty & ~_9_Asian_Pac_Islander & ~_14_Canada | _7_Prof_specialty & ~_9_Asian_Pac_Islander & ~_7_Exec_managerial | ~_9_Asian_Pac_Islander & ~_14_Canada & ~_7_Exec_managerial
+[13.0, 0.0]
+
+_14_Mexico & ~_4_7th_8th & ~_14_Portugal | _14_Mexico & ~_4_7th_8th & ~_14_Honduras | ~_4_7th_8th & ~_14_Portugal & ~_14_Honduras
+[0.0, 13.0]
+
+_14_Jamaica & ~capital_gain_ST_4685 & ~_14_Hong | _14_Jamaica & ~capital_gain_ST_4685 & ~_14_Puerto_Rico | ~capital_gain_ST_4685 & ~_14_Hong & ~_14_Puerto_Rico
+[13.0, 0.0]
+
+_4_Doctorate & ~years_of_education_ST_12 & ~_14_Scotland | _4_Doctorate & ~years_of_education_ST_12 & ~_10_Male | ~years_of_education_ST_12 & ~_14_Scotland & ~_10_Male
+[13.0, 0.0]
+
+_4_9th & ~_14_Nicaragua & ~_2_Self_emp_inc | _4_9th & ~_14_Nicaragua & ~_7_Machine_op_inspct | ~_14_Nicaragua & ~_2_Self_emp_inc & ~_7_Machine_op_inspct
+[0.0, 13.0]
+
+_14_Dominican_Republic | _14_Vietnam | _2_Private | poids_binaire_raciste_ST_241322 | _14_Columbia
+[0.0, 13.0]
+
+_14_England | _7_Prof_specialty | _9_White | _14_France | _14_Guatemala
+[0.0, 13.0]
+
+_8_Not_in_family | _4_Some_college | capital_gain_ST_4685 | _4_Doctorate | _14_Cambodia
+[0.0, 13.0]
+
+_4_Assoc_acdm | _4_1st_4th | _4_9th | _7_Armed_Forces | _8_Unmarried
+[0.0, 13.0]
+
+_2_Private | _7_Sales | _4_Masters | _14_Dominican_Republic | _14_Thailand
+[0.0, 13.0]
+
+_7_Machine_op_inspct | _6_Married_spouse_absent | _2_State_gov | _6_Separated | _14_Holand_Netherlands
+[0.0, 13.0]
+
+_14_Haiti | _7_Craft_repair | _7_Armed_Forces | _14_Honduras | _14_Poland
+[13.0, 0.0]
+
+_4_Assoc_acdm | _8_Not_in_family | _10_Male | _7_Transport_moving | _9_White
+[0.0, 13.0]
+
+_14_Italy | _14_France | _8_Wife | _7_Machine_op_inspct | _4_HS_grad
+[0.0, 13.0]
+
+_2_Never_worked | _6_Separated | _14_Iran | _7_Craft_repair | _2_Federal_gov
+[13.0, 0.0]
+
+_14_Portugal | _14_Peru | _4_Masters | _2_Local_gov | _4_Prof_school
+[0.0, 13.0]
+
+_4_Masters | _6_Married_spouse_absent | _4_12th | _4_Doctorate | _14_Germany
+[13.0, 0.0]
+
+_6_Never_married | _2_Federal_gov | capital_gain_ST_4685 | _7_Handlers_cleaners | _8_Not_in_family
+[13.0, 0.0]
+
+_8_Own_child | years_of_education_ST_12 | _6_Separated | capital_loss_ST_285 | _14_El_Salvador
+[0.0, 13.0]
+
+_8_Wife | _9_Asian_Pac_Islander | _2_Self_emp_not_inc | _14_Dominican_Republic | _7_Adm_clerical
+[13.0, 0.0]
+
+_8_Unmarried | _14_China | _7_Priv_house_serv | _14_United_States | age_ST_46
+[0.0, 13.0]
+
+_7_Prof_specialty | _14_Portugal | _14_South | _6_Widowed | _14_Ecuador
+[13.0, 0.0]
+
+_2_Never_worked | _7_Transport_moving | _14_Iran | _14_England | _4_Assoc_voc
+[0.0, 13.0]
+
+_2_State_gov | _14_Canada | _4_Assoc_acdm | _4_Prof_school | _6_Never_married
+[0.0, 13.0]
+
+_14_Italy | _7_Protective_serv | _9_Asian_Pac_Islander | _14_Cuba | _14_Nicaragua
+[0.0, 13.0]
+
+_14_Haiti | _14_Greece | age_ST_46 | hours_per_week_ST_47 | capital_gain_ST_4685
+[0.0, 13.0]
+
+_4_Bachelors | _4_Preschool | _9_Black | _14_Laos | _14_Mexico
+[0.0, 13.0]
+
+_14_Taiwan | _7_Adm_clerical | _14_Laos | _7_Armed_Forces | _14_Portugal
+[0.0, 13.0]
+
+_2_Local_gov | _14_Columbia | years_of_education_ST_12 | _14_United_States | _2_Never_worked
+[13.0, 0.0]
+
+_14_Ireland | _2_Private | _14_Peru | _8_Other_relative | _4_Doctorate
+[0.0, 13.0]
+
+_7_Tech_support | _14_Mexico | _6_Never_married | hours_per_week_ST_47 | _7_Transport_moving
+[0.0, 13.0]
+
+_14_Haiti | _4_11th | _8_Not_in_family | _14_Hungary | _8_Wife
+[0.0, 13.0]
+
+_4_HS_grad | _7_Prof_specialty | _7_Farming_fishing | _14_Yugoslavia | _6_Married_AF_spouse
+[0.0, 13.0]
+
+_14_Jamaica | capital_gain_ST_4685 | _14_Hong | _14_Puerto_Rico | _7_Priv_house_serv
+[0.0, 13.0]
+
+_8_Wife | poids_binaire_raciste_ST_241322 | _2_Without_pay | _9_Asian_Pac_Islander | _14_Dominican_Republic
+[0.0, 13.0]
+
+~_2_Never_worked & ~_8_Wife & ~_14_South & ~_14_Mexico & ~_14_Haiti
+[13.0, 0.0]
+
+~_4_Prof_school & ~_7_Craft_repair & ~_14_Japan & ~_14_Cuba & ~_14_Holand_Netherlands
+[13.0, 0.0]
+
+~_14_Ireland & ~_9_Other & ~_14_Hong & ~_6_Married_spouse_absent & ~capital_loss_ST_285
+[0.0, 13.0]
+
+~_4_Doctorate & ~_14_Greece & ~_6_Separated & ~_14_Italy & ~_8_Own_child
+[13.0, 0.0]
+
+~_14_England & ~_7_Prof_specialty & ~_9_White & ~_14_France & ~_14_Guatemala
+[13.0, 0.0]
+
+~_7_Exec_managerial & ~_14_Holand_Netherlands & ~age_ST_46 & ~_7_Priv_house_serv & ~_7_Farming_fishing
+[0.0, 13.0]
+
+~_4_Assoc_voc & ~capital_loss_ST_285 & ~_14_Canada & ~_9_White & ~_2_Local_gov
+[13.0, 0.0]
+
+~_7_Machine_op_inspct & ~_6_Married_spouse_absent & ~_2_State_gov & ~_6_Separated & ~_14_Holand_Netherlands
+[13.0, 0.0]
+
+~_4_Assoc_acdm & ~_8_Not_in_family & ~_10_Male & ~_7_Transport_moving & ~_9_White
+[13.0, 0.0]
+
+~age_ST_46 & ~years_of_education_ST_12 & ~_8_Other_relative & ~_2_Self_emp_inc & ~_7_Transport_moving
+[0.0, 13.0]
+
+~_2_Never_worked & ~_6_Separated & ~_14_Iran & ~_7_Craft_repair & ~_2_Federal_gov
+[0.0, 13.0]
+
+~_14_Portugal & ~_14_Peru & ~_4_Masters & ~_2_Local_gov & ~_4_Prof_school
+[13.0, 0.0]
+
+~_4_Doctorate & ~_7_Sales & ~_2_Self_emp_not_inc & ~_6_Widowed & ~_4_Bachelors
+[13.0, 0.0]
+
+~_9_Black & ~capital_gain_ST_4685 & ~_8_Unmarried & ~_2_Never_worked & ~_2_Without_pay
+[0.0, 13.0]
+
+~_7_Craft_repair & ~_7_Armed_Forces & ~_8_Other_relative & ~_14_Germany & ~_6_Married_spouse_absent
+[13.0, 0.0]
+
+~_14_Yugoslavia & ~_8_Own_child & ~_4_5th_6th & ~_7_Protective_serv & ~_14_China
+[13.0, 0.0]
+
+~_4_12th & ~_2_Self_emp_inc & ~_6_Married_AF_spouse & ~_10_Male & ~_7_Tech_support
+[13.0, 0.0]
+
+~_4_Masters & ~_6_Married_spouse_absent & ~_4_12th & ~_4_Doctorate & ~_14_Germany
+[0.0, 13.0]
+
+~_14_Haiti & ~_14_Greece & ~age_ST_46 & ~hours_per_week_ST_47 & ~capital_gain_ST_4685
+[13.0, 0.0]
+
+~_4_Bachelors & ~_4_Preschool & ~_9_Black & ~_14_Laos & ~_14_Mexico
+[13.0, 0.0]
+
+~_14_Taiwan & ~_7_Adm_clerical & ~_14_Laos & ~_7_Armed_Forces & ~_14_Portugal
+[13.0, 0.0]
+
+~_14_Honduras & ~_14_Jamaica & ~age_ST_46 & ~_6_Widowed & ~_7_Priv_house_serv
+[13.0, 0.0]
+
+~_7_Tech_support & ~_14_Mexico & ~_6_Never_married & ~hours_per_week_ST_47 & ~_7_Transport_moving
+[13.0, 0.0]
+
+~_14_Haiti & ~_4_11th & ~_8_Not_in_family & ~_14_Hungary & ~_8_Wife
+[13.0, 0.0]
+
+~_4_HS_grad & ~_7_Prof_specialty & ~_7_Farming_fishing & ~_14_Yugoslavia & ~_6_Married_AF_spouse
+[13.0, 0.0]
+
+~_4_Doctorate & ~years_of_education_ST_12 & ~_14_Scotland & ~_10_Male & ~_14_El_Salvador
+[13.0, 0.0]
+

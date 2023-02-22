@@ -1,0 +1,9 @@
+index,0,1,2,Filter_3_Value_1,Filter_3_dontcares_1
+0,0,0,0,True,False
+1,0,0,1,True,False
+2,0,1,0,False,False
+3,0,1,1,False,True
+4,1,0,0,True,False
+5,1,0,1,True,False
+6,1,1,0,False,False
+7,1,1,1,False,True

@@ -1,0 +1,15 @@
+general:
+  DATA_DIR: dataset/adult/
+  kfold: 3
+
+model:
+  kernel_size_per_block: [ 5 ] #
+  Blocks_filters_output: [ 10 ] # number of filters in each bloc
+  padding_per_block: [ 0 ] #
+  Blocks_strides: [ 5 ] #[2,1,1,1]  # stride in the first layer in each block
+  load_permut: models_res/Adult/Model_1/adult_mapping.json
+  repeat_permut: 10
+
+eval:
+  path_load_model: models_res/Adult/Model_1
+  # models_res/Tabular/Adult/Model_1 ; ACC: 85.35%

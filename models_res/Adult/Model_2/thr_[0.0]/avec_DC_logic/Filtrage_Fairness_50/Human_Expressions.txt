@@ -1,0 +1,33 @@
+_8_Own_child | _8_Wife | _8_Unmarried & _9_Asian_Pac_Islander | _8_Unmarried & _9_Black
+[159.0, 0.0]
+
+~years_of_education_ST_12 & ~capital_gain_ST_4530 & ~capital_loss_ST_276 | ~poids_binaire_raciste_ST_239116 & ~years_of_education_ST_12 & ~capital_gain_ST_4530 & ~hours_per_week_ST_47
+[159.0, 0.0]
+
+_8_Wife | _8_Unmarried & _9_Black
+[0.0, 159.0]
+
+_14_Holand_Netherlands
+[159.0, 0.0]
+
+capital_gain_ST_4530 | poids_binaire_raciste_ST_239116 & years_of_education_ST_12 | years_of_education_ST_12 & hours_per_week_ST_47
+[0.0, 159.0]
+
+_4_Preschool & ~_6_Married_AF_spouse | ~_4_Prof_school & ~_6_Married_AF_spouse & ~_6_Married_civ_spouse
+[159.0, 0.0]
+
+_4_9th | _4_Assoc_acdm
+[159.0, 0.0]
+
+_6_Married_AF_spouse | _6_Married_civ_spouse
+[0.0, 159.0]
+
+_14_Mexico | _14_Nicaragua
+[159.0, 0.0]
+
+~capital_gain_ST_4530 & ~capital_loss_ST_276 | ~poids_binaire_raciste_ST_239116 & ~years_of_education_ST_12 & ~capital_gain_ST_4530 | ~years_of_education_ST_12 & ~capital_gain_ST_4530 & ~hours_per_week_ST_47
+[159.0, 0.0]
+
+_4_5th_6th | _4_7th_8th
+[159.0, 0.0]
+
