@@ -72,9 +72,22 @@ def prepare_dataset(ksize: int, nfilters: int, pad: int, stride: int, data_dir: 
     """
     op = 'dnf'
     path = os.path.join(model_path, 'thr_[0.0]/avec_DC_logic/Filtrage_0')
+    path_WHK = os.path.join(model_path, 'thr_[0.0]/sans_DC_logic/Filtrage_0')
     bn_path = os.path.join(model_path, 'bn_thresh.txt')
     w_lr = np.load(os.path.join(model_path, 'lr_matrix.npy'))
     b_lr = np.load(os.path.join(model_path, 'b_matrix.npy'))[0]
+    cpt = 0
+    with open(os.path.join(path, 'Human_Expressions.txt'), "r") as file:
+        for line in file:
+            cpt += line.count("|")
+            cpt += line.count("&")
+    print("\nNumber of Logic Gate with HK ", cpt, "\n")
+    cpt = 0
+    with open(os.path.join(path_WHK, 'Human_Expressions.txt'), "r") as file:
+        for line in file:
+            cpt += line.count("|")
+            cpt += line.count("&")
+    print("Number of Logic Gate without HK ", cpt, "\n")
     train_set, test_set, mappings = get_data_loader(dataset, data_dir, load_permut=mappings_path, as_numpy=True,
                                                     bn_path=bn_path, k=k_fold)
     x = test_set[0][0, :]

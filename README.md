@@ -13,9 +13,11 @@ The following datasets have been evaluated:
 
 ### Adult
 The accuracy for the Adult dataset is 85.35%.
+71 logic gates (AND/OR) with human kwnoledge injection, 123 logic gates (AND/OR) without human kwnoledge injection.
 
 ### Breast Cancer
 The accuracy for the Breast Cancer dataset is 77.58%.
+1474 logic gates (AND/OR) with human kwnoledge injection, 1954 logic gates (AND/OR) without human kwnoledge injection.
 
 ## Usage
 
