@@ -13,7 +13,7 @@ The following datasets have been evaluated:
 
 
 
-|       | Accuracy (top 1) | Total Logic Gates with HK (OP)  | Total Logic Gates without HK (OP) | 
+|       | Accuracy  | Total Logic Gates with HK (OP)  | Total Logic Gates without HK (OP) | 
 |-------|:----------------:|:-------------------------------:|:---------------------------------:|
 | Adult |      85.35%      |              1474               |               1954                |
 | Breast Cancer |      77.58%      |               71                |                123                |
